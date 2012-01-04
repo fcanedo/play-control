@@ -1,0 +1,7 @@
+The Debian Package play-control
+----------------------------
+
+This is package containing an upstart script to control the stopping and
+starting of Play framework apps.
+
+ -- Francisco José Canedo Dominguez <paco+debian@lunatech.com>  Fri, 09 Dec 2011 15:08:58 +0100

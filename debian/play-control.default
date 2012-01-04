@@ -1,0 +1,17 @@
+# Defaults for play-control initscript
+
+#
+# This is a POSIX shell fragment
+#
+
+# The location of the Play apps
+PLAY_APPS_DIR="/usr/share/playapps"
+
+# Location of the Play script
+PLAY=/usr/bin/play
+
+# User to run the Play applications as
+USER="playapps"
+
+# Group to run the Play applications as
+GROUP="playapps"

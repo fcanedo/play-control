@@ -1,0 +1,11 @@
+play-control (0.2) lucid; urgency=low
+
+  * Fixed upstart script names
+
+ -- Francisco José Canedo Dominguez <paco+debian@lunatech.com>  Fri, 09 Dec 2011 17:26:35 +0100
+
+play-control (0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Francisco José Canedo Dominguez <paco+debian@lunatech.com>  Fri, 09 Dec 2011 15:08:58 +0100

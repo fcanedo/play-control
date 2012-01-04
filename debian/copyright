@@ -1,0 +1,43 @@
+This work was packaged for Debian by:
+
+    Francisco José Canedo Dominguez <paco+debian@lunatech.com> on Fri, 09 Dec 2011 15:08:58 +0100
+
+It is an original package.
+
+Upstream Author(s):
+
+    Francisco José Canedo Dominguez <paco+debian@lunatech.com>
+
+Copyright:
+
+    Francisco José Canedo Dominguez <paco+debian@lunatech.com>
+
+License:
+
+   This package is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License version 2 as
+   published by the Free Software Foundation.
+
+    This package is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this package; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+On Debian systems, the complete text of the GNU General
+Public License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
+
+The Debian packaging is:
+
+    Copyright (C) 2011 Francisco José Canedo Dominguez <paco+debian@lunatech.com>
+
+you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.

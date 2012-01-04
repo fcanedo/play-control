@@ -1,0 +1,8 @@
+debian/play-control
+debian/play-control.substvars
+debian/play-control.prerm.debhelper
+debian/play-control.preinst.debhelper
+debian/play-control.postinst.debhelper
+debian/files
+debian/play-control.debhelper.log
+
